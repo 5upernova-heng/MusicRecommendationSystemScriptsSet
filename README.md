@@ -8,5 +8,5 @@ The script used in build a simple Musci Recoomendation System
 - `logger.py`: Logger module to tell the time and some other information
 - `evaluation.py`: script that use to do the recommendation & evaluate the recommendation result
 
-> Here is [All the data](https://drive.google.com/drive/folders/1_fS_jq84C0waxXovBFmMVhgDmCnnWmGr?usp=sharing) we scrape from Rate Your Music.
+> Here is [All the data](https://drive.google.com/drive/folders/1_fS_jq84C0waxXovBFmMVhgDmCnnWmGr?usp=sharing) we scrape from [Rate Your Music](https://rateyourmusic.com/).
 > Proxy server is required. Using One IP Address only will be inevitably banned
